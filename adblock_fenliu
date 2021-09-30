@@ -1,1 +1,13 @@
 #广告拦截quantumult x分流规则
+#例子
+#DOMAIN-SUFFIX, asewlfjqwlflkew.com, reject
+#DOMAIN-SUFFIX, uus52.com, reject
+#DOMAIN-KEYWORD, exosrv, reject
+#DOMAIN-KEYWORD, asewlfjqwlflkew, reject
+#DOMAIN,mc.viglink.com,REJECT 
+#DOMAIN,qa.viglink.com,REJECT
+
+#APP名称
+#DOMAIN,qa.viglink.com,REJECT
+
+#京东

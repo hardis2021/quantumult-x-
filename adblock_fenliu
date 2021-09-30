@@ -10,6 +10,7 @@
 #APP名称
 #DOMAIN,qa.viglink.com,REJECT
 
-DOMAIN,qa.viglink.com,REJECT
+#qq音乐
+HOST,adstats.tencentmusic.com,REJECT
 
 #京东

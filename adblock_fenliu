@@ -17,3 +17,7 @@ HOST,[a-zA-Z0-9.]*[aA][dD].+,REJECT
 HOST,^https?:\/\/adstats\.tencentmusic\.com/,REJECT
 
 #京东
+
+
+#默认
+GEOIP,CN,DIRECT

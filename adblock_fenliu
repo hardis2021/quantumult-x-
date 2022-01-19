@@ -10,6 +10,9 @@
 #APP名称
 #DOMAIN,qa.viglink.com,REJECT
 
+#广告AD拦截总称
+HOST,[a-zA-Z0-9.]*[aA][dD].+,REJECT
+
 #qq音乐
 HOST,^https?:\/\/adstats\.tencentmusic\.com/,REJECT
 

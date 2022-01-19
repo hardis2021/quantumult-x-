@@ -11,6 +11,6 @@
 #DOMAIN,qa.viglink.com,REJECT
 
 #qq音乐
-HOST,adstats.tencentmusic.com,REJECT
+HOST,^https?:\/\/adstats\.tencentmusic\.com/,REJECT
 
 #京东
